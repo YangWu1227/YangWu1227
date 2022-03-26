@@ -9,9 +9,9 @@
 
 - 📄 Know about my experiences via [https://www.kenwuyang.com/en/](https://www.kenwuyang.com/en/)
 
-- ⚡ Fun fact **- I am a huge soccer and NBA fan**
+- ⚡ Sports **- I am a huge soccer and NBA fan**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yangwu1227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yangwu1227" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12923148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12923148" height="30" width="40" /></a>
