@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, R, C++, Machine Learning, and Statistics**
 
-- 📝 I often write posts on [https://www.kenwuyang.com/en/](https://www.kenwuyang.com/en/)
+- 📝 I write posts on [https://www.kenwuyang.com/en/](https://www.kenwuyang.com/en/) to push myself to continue to learn
 
 - 📫 How to reach me at **yangwu2020@gmail.com**
 
