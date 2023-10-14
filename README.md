@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yang</h1>
 <h3 align="center">A passionate statistics student and programmer living in the USA</h3>
 
-- 🌱 I’m currently learning **Python, R, C++, Machine Learning, and Statistics**
+- 🌱 I’m currently learning **Python, R, C++, Machine Learning & Statistics**
 
-- 📝 I write posts [here](https://www.kenwuyang.com/en/) to push myself to continue to learn
+- 📝 I write [here](https://www.kenwuyang.com/en/) as an effort to keep learnining, one post at a time
 
 - 📫 You could reach at **yangwu2020(at)gmail(dot)com**
 
