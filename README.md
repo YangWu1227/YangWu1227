@@ -5,7 +5,7 @@
 
 - 📝 I write [here](https://www.kenwuyang.com/en/) as an effort to keep learning, one post at a time
 
-- 📫 You could reach at **yangwu2020(at)gmail(dot)com**
+- 📫 You could reach me at **yangwu2020(at)gmail(dot)com**
 
 <h3 align="left">Social:</h3>
 <p align="left">
